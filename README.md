@@ -12,9 +12,9 @@
 
 - 💻 Full-Stack Web Developer and BCA graduate from Mewar University, Rajasthan.
 - 🌐 Experienced in building web applications using the **MERN Stack and Next.js**.
-- 🛠️ Developed and deployed e-commerce, institute management, video conferencing, and collaborative whiteboard applications.
+- 🛠️ Developed e-commerce, institute management, video conferencing, and collaborative whiteboard applications.
 - 🔐 Experienced with authentication, REST APIs, database integration, admin dashboards, and responsive UI development.
-- ☁️ Familiar with deployment using Vercel, Render, and MongoDB Atlas.
+- ☁️ Familiar with deployment and cloud platforms, including Vercel, Render, MongoDB Atlas, and Cloudflare.
 - 🤝 Open to collaborating on real-world projects and innovative web applications.
 - 📚 Always learning and improving my problem-solving and development skills.
 
@@ -37,28 +37,32 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Programming Languages" />
 </p>
 
-### Tools & Platforms
+### Tools, Platforms & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,figma" alt="Tools and Platforms" />
 </p>
 
-**Also familiar with:** Mongoose, REST APIs, JWT, NextAuth, Socket.IO, Fabric.js, Cloudinary, Nodemailer, Multer, and Render.
+**Also familiar with:** Mongoose, REST APIs, JWT, NextAuth, Socket.IO, Fabric.js, Cloudinary, Nodemailer, Multer, Render, and MongoDB Atlas.
 
 ---
 
 ## 💼 Featured Projects
 
-### 🧬 Jivaka Institute of Life Sciences (JIOLS)
+### 🧬 1. Jivaka Institute of Life Sciences (JIOLS)
 **Full-Stack Institute Website**
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, Bootstrap, Cloudinary, JWT, REST APIs.
+🔗 **Live Website:** [jivakainstitute.com](https://www.jivakainstitute.com)
 
-- Developed and deployed a responsive website for an institute.
+**Tech Stack:** React.js, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose, Cloudinary, JWT, REST APIs.
+
+- Developed and deployed a responsive website for a life sciences training institute.
 - Implemented course management, student enrollment, faculty profiles, and notices.
-- Built an admin dashboard for managing institute content and operations.
+- Built an admin dashboard to manage institute content and operations.
 - Deployed using Vercel, Render, and MongoDB Atlas.
 
-### 🛒 Kmart — E-Commerce Platform
+### 🛒 2. Kmart — E-Commerce Platform
+
+🔗 **Live Website:** [kmartsslice.vercel.app](https://kmartsslice.vercel.app/)
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Vite, JWT, Multer, Mongoose, Nodemailer.
 
@@ -68,7 +72,7 @@
 - Integrated automated email notifications for user queries.
 - Built administrative dashboard features for managing application data.
 
-### 🎥 MeetOn — Video Conferencing Application
+### 🎥 3. MeetOn — Video Conferencing Application
 
 **Tech Stack:** Next.js, Tailwind CSS, shadcn/ui, NextAuth, ZEGOCLOUD.
 
@@ -77,7 +81,9 @@
 - Designed a responsive and user-friendly interface.
 - Focused on seamless user experience and real-time interaction.
 
-### 🎨 KsharpDraw — Collaborative Whiteboard
+### 🎨 4. KsharpDraw — Collaborative Whiteboard
+
+🔗 **Live Website:** [ksharpdraw-whiteboard.vercel.app](https://ksharpdraw-whiteboard.vercel.app/)
 
 **Tech Stack:** Next.js, React, Tailwind CSS, Fabric.js, Socket.IO, Node.js, Express.js, MongoDB, JWT.
 
@@ -105,18 +111,6 @@ Netparam Technologies Pvt. Ltd., Jaipur, Rajasthan
 **Web Designing & Development Trainee**  
 Central Tool Room & Training Centre, Bhubaneswar, Odisha  
 📅 May – June 2025
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushal-Kumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
